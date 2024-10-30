@@ -1,1 +1,1 @@
-Test
+"Now I can use git"
