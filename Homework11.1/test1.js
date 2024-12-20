@@ -4,5 +4,4 @@ function printTextWithDelay(text, delay) {
     }, delay);
 }
 
-// Виклик функції
-printTextWithDelay("Привіт, світ!", 2000); // Тефкст буде виведено через 2 секунд
+printTextWithDelay("Привіт, світ!", 2000); 
